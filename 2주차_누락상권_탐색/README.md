@@ -16,4 +16,4 @@ KNN 으로 데이터 전처리 - 정순우, 문지용
 
 KNN 으로 생성된 병합 데이터 링크 : https://drive.google.com/file/d/1yesJRD7yo5hRy1BYVWFz5qmYl8A3TAZw/view?usp=sharing 
 
-최종적으로 라벨링까지 완료된 데이터 링크 : https://drive.google.com/file/d/11xCnlWskN-bz1xti_RIQhurcQEAjNKXR/view?usp=sharing
+최종적으로 라벨링까지 완료된 데이터 링크 : https://drive.google.com/file/d/1i-g3meKuABYsSKqPvJ1TehcNiw2i0qBE/view?usp=sharing
