@@ -45,6 +45,9 @@
 ### 딥러닝 기법(RNN), 회귀분석 기법(ARIMA), 머신러닝 기법(Xgboost) 을 통해 작년 1년동안의 데이터로 미래(다음 분기)의 폐업률을 예측하는 모델을 만든다.
 ex) Xgboost의 미래 폐업률 예측 ( 파란 선 : 예측한 폐업률 , 주황 선 : 실제 폐업률 , 갈색 선 : 예측 값과 실제 값이 일치하는 경우
 ![image](https://user-images.githubusercontent.com/72516027/100472136-fee2fa00-311e-11eb-8f9a-ff849a445cc3.png)
+
+#### 확대한 이미지
+![image](https://user-images.githubusercontent.com/72516027/100473528-ede7b800-3121-11eb-8aa9-7039735a2244.png)
 ### 그리고 과거의 어떤 요인이 다음 분기 폐업률을 예측하는데 큰 영향을 주는지 알아본다.
 ex) Xgboost로 알아본 다음 분기 폐업률 예측시 중요한 요소 ( 데이터 : 강남구 )
 ![image](https://user-images.githubusercontent.com/72516027/100472149-04d8db00-311f-11eb-9067-e2e2e6d2ba57.png)
