@@ -69,7 +69,6 @@ def feature_importance(model) :
     # 중요도 시각화
 
     feature_important = model.get_booster().get_score(importance_type='weight')
-    print(feature_important)
     keys = list(feature_important.keys())
     values = list(feature_important.values())
 
