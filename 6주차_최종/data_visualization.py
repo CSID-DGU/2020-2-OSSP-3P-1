@@ -190,7 +190,7 @@ def visual_facil(df):
     # 그래프 틀 생성
     row_size = 5 # 그래프의 폭 설정
     column_size = 5 # 그래프의 높이 설정
-    fig, ax = matplotlib.pyplot.subplots(figsize = (row_size, columns_size))
+    fig, ax = matplotlib.pyplot.subplots(figsize = (row_size, column_size))
     df = aa.loc[:,0].value_counts() # 정리한 집객시설 수 추출
 
     # 그래프 위에 수치 표시
